@@ -7,15 +7,16 @@ professional, and structured approach.
 
 ## 📌 Structure
 - Each topic has its own folder.
-- Every problem has:
-  - `solution.py`
   - `explanation.md` (my reasoning + approach)
 
+- Every problem has:
+  - `solution.cpp`
+
 ## 🧠 Learning Approach
-1. Solve using NeetCode roadmap (75 → 150+)
+1. Solve using NeetCode Roadmap (NeetCode 150)
 2. Re-solve on LeetCode
 3. Write a short explanation in my own words
-4. Keep the repo clean & curated (not dumping hundreds of files)
+4. Keep the repo clean & curated
 
 ## 🚀 Topics Covered
 - Arrays
